@@ -1,0 +1,8 @@
+main: ben.plugins.helloWorldPlugin.Main
+name: HelloPlayer
+version: 1.0
+author: Ben Hamrick
+
+commands:
+  HelloPlayer:
+    description: A simple plugin to test player commands woohoo!

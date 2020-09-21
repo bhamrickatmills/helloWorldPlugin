@@ -1,0 +1,3 @@
+module helloWorldPlugin {
+  requires spigot;
+}
